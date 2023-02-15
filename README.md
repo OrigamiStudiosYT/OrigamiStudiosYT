@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and engineering
 - 🌱 I’m currently studying Computer Engineering at UML
 - 💞️ I’m looking to collaborate on smaller projects that will get my foot in the door
-- 📫 How to reach me idk, email
+- 📫 Currently setting up an email server
 
 <!---
 OrigamiStudiosYT/OrigamiStudiosYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
