@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrigamiStudiosYT
 - 👀 I’m interested in computer science and engineering
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently studying Computer Engineering at UML
 - 💞️ I’m looking to collaborate on smaller projects that will get my foot in the door
 - 📫 How to reach me idk, email
 
